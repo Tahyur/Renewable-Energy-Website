@@ -1,0 +1,236 @@
+1
+00:00:00,860 --> 00:00:04,470
+around the world<font color="#E5E5E5"> renewable energy use is</font>
+
+2
+00:00:04,470 --> 00:00:07,919
+on<font color="#CCCCCC"> the rise and these alternative energy</font>
+
+3
+00:00:07,919 --> 00:00:10,440
+sources<font color="#E5E5E5"> could hold the key</font><font color="#CCCCCC"> to combating</font>
+
+4
+00:00:10,440 --> 00:00:19,430
+climate change<font color="#E5E5E5"> what is renewable energy</font>
+
+5
+00:00:19,430 --> 00:00:22,350
+renewable<font color="#CCCCCC"> energy is generated from</font>
+
+6
+00:00:22,350 --> 00:00:24,480
+sources that naturally replenish
+
+7
+00:00:24,480 --> 00:00:27,449
+themselves<font color="#E5E5E5"> and never run out the most</font>
+
+8
+00:00:27,449 --> 00:00:31,260
+<font color="#E5E5E5">common sources are solar wind hydro</font>
+
+9
+00:00:31,260 --> 00:00:36,719
+geothermal and biomass<font color="#CCCCCC"> over 80%</font><font color="#E5E5E5"> of the</font>
+
+10
+00:00:36,719 --> 00:00:39,149
+<font color="#E5E5E5">total</font><font color="#CCCCCC"> energy consumed by humans is</font>
+
+11
+00:00:39,149 --> 00:00:40,680
+derived from<font color="#CCCCCC"> fossil fuels</font>
+
+12
+00:00:40,680 --> 00:00:44,040
+however renewables are the fastest
+
+13
+00:00:44,040 --> 00:00:47,270
+<font color="#CCCCCC">growing source of energy in the world</font>
+
+14
+00:00:47,270 --> 00:00:51,570
+<font color="#E5E5E5">renewable</font><font color="#CCCCCC"> energy has many benefits first</font>
+
+15
+00:00:51,570 --> 00:00:54,539
+it<font color="#E5E5E5"> can combat climate</font><font color="#CCCCCC"> change</font><font color="#E5E5E5"> because it</font>
+
+16
+00:00:54,539 --> 00:00:56,579
+creates no direct greenhouse gas
+
+17
+00:00:56,579 --> 00:00:59,250
+emissions the only emissions<font color="#E5E5E5"> that they</font>
+
+18
+00:00:59,250 --> 00:01:01,920
+produce<font color="#E5E5E5"> are indirect meaning those that</font>
+
+19
+00:01:01,920 --> 00:01:04,040
+<font color="#E5E5E5">result from manufacturing parts</font>
+
+20
+00:01:04,040 --> 00:01:06,570
+installation operation<font color="#CCCCCC"> and</font><font color="#E5E5E5"> maintenance</font>
+
+21
+00:01:06,570 --> 00:01:10,850
+<font color="#CCCCCC">but even those are minimal second</font>
+
+22
+00:01:10,850 --> 00:01:13,409
+renewable<font color="#E5E5E5"> energy can decrease pollution</font>
+
+23
+00:01:13,409 --> 00:01:15,840
+<font color="#CCCCCC">and therefore reduce threats to our</font>
+
+24
+00:01:15,840 --> 00:01:19,049
+health<font color="#E5E5E5"> wind solar and hydroelectric</font>
+
+25
+00:01:19,049 --> 00:01:21,750
+systems create<font color="#E5E5E5"> no air pollution</font>
+
+26
+00:01:21,750 --> 00:01:24,180
+emissions<font color="#CCCCCC"> and geothermal</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> biomass</font>
+
+27
+00:01:24,180 --> 00:01:27,119
+energy<font color="#E5E5E5"> systems emissions are much lower</font>
+
+28
+00:01:27,119 --> 00:01:30,159
+than<font color="#CCCCCC"> non-renewable energy</font><font color="#E5E5E5"> sources</font>
+
+29
+00:01:30,159 --> 00:01:33,490
+third<font color="#E5E5E5"> renewable energy is a reliable</font>
+
+30
+00:01:33,490 --> 00:01:37,179
+<font color="#CCCCCC">source of</font><font color="#E5E5E5"> power because renewable energy</font>
+
+31
+00:01:37,179 --> 00:01:40,149
+sources are well renewable<font color="#E5E5E5"> they will</font>
+
+32
+00:01:40,149 --> 00:01:43,959
+never run out<font color="#E5E5E5"> once built renewable</font>
+
+33
+00:01:43,959 --> 00:01:46,689
+facilities cost very little<font color="#CCCCCC"> to operate</font>
+
+34
+00:01:46,689 --> 00:01:49,920
+and the fuel is often free as a result
+
+35
+00:01:49,920 --> 00:01:52,270
+renewable energy prices<font color="#E5E5E5"> tend to be</font>
+
+36
+00:01:52,270 --> 00:01:55,869
+<font color="#E5E5E5">stable over time while renewable energy</font>
+
+37
+00:01:55,869 --> 00:01:58,450
+has many advantages<font color="#CCCCCC"> it is not without</font>
+
+38
+00:01:58,450 --> 00:02:02,109
+downsides<font color="#E5E5E5"> it is difficult for renewable</font>
+
+39
+00:02:02,109 --> 00:02:04,509
+energy<font color="#E5E5E5"> sources to</font><font color="#CCCCCC"> generate power</font><font color="#E5E5E5"> on the</font>
+
+40
+00:02:04,509 --> 00:02:07,170
+same large scale as fossil fuels
+
+41
+00:02:07,170 --> 00:02:10,060
+building wind farms and dams can disrupt
+
+42
+00:02:10,060 --> 00:02:12,519
+wildlife and migration<font color="#E5E5E5"> patterns</font><font color="#CCCCCC"> and lead</font>
+
+43
+00:02:12,519 --> 00:02:16,750
+to<font color="#CCCCCC"> ecological destruction both solar</font><font color="#E5E5E5"> and</font>
+
+44
+00:02:16,750 --> 00:02:19,510
+wind energy<font color="#E5E5E5"> are intermittent they only</font>
+
+45
+00:02:19,510 --> 00:02:21,700
+<font color="#E5E5E5">generate power while the sun is</font><font color="#CCCCCC"> shining</font>
+
+46
+00:02:21,700 --> 00:02:24,640
+<font color="#E5E5E5">or while the wind is blowing batteries</font>
+
+47
+00:02:24,640 --> 00:02:27,430
+<font color="#E5E5E5">can store excess energy for later use</font>
+
+48
+00:02:27,430 --> 00:02:31,660
+however<font color="#E5E5E5"> they</font><font color="#CCCCCC"> are often costly</font><font color="#E5E5E5"> while</font>
+
+49
+00:02:31,660 --> 00:02:33,519
+renewable energy presents some
+
+50
+00:02:33,519 --> 00:02:34,420
+<font color="#CCCCCC">challenges</font>
+
+51
+00:02:34,420 --> 00:02:36,670
+it also offers an environmentally
+
+52
+00:02:36,670 --> 00:02:38,590
+<font color="#CCCCCC">friendly alternative to the greenhouse</font>
+
+53
+00:02:38,590 --> 00:02:40,959
+<font color="#E5E5E5">gas</font><font color="#CCCCCC"> emissions and</font><font color="#E5E5E5"> pollution of fossil</font>
+
+54
+00:02:40,959 --> 00:02:42,060
+fuels
+
+55
+00:02:42,060 --> 00:02:44,489
+and as advances in technology make
+
+56
+00:02:44,489 --> 00:02:46,650
+<font color="#CCCCCC">renewable energy more accessible</font>
+
+57
+00:02:46,650 --> 00:02:49,680
+affordable and efficient<font color="#E5E5E5"> an end to</font>
+
+58
+00:02:49,680 --> 00:02:52,480
+climate change could be within our reach
+
+59
+00:02:52,480 --> 00:00:00,000
+[Music]
+

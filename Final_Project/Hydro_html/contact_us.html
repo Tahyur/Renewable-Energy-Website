@@ -1,0 +1,112 @@
+<!DOCTYPE>
+<html>
+    <head>
+     <title>Contact Us</title>
+        <meta charset="utf-8">
+        <meta name="description" content="">
+        <meta name="keywords" content="Hydroelectric, conversion, electric, energy, renewable, renewed, water, flowing water, solar, biomass,
+                                       geothermal, ocean energy">
+        <link rel="icon" href="../Images/favicon.ico">     
+        <link rel="stylesheet" href="../Css/normalize.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fascinate+Inline|Rye" >
+        <link href="https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
+        <link rel="stylesheet" href="../Css/style.css">
+        <link rel="stylesheet" href="../Css/hydro.css">
+        <link rel="stylesheet" href="../Css/faqs.css">
+        <link rel="stylesheet" href="../Css/contact_us.css">
+        <script src="../Js/contact_us.js"></script>	
+        
+        <!-- Sweet alert -->
+    <script src="../Css/sweetalert-master/dist/sweetalert.min.js"></script>
+    <link rel="stylesheet" href="../Css/sweetalert-master/dist/sweetalert.css">
+		
+    </head>
+    <body>
+          
+        <div id="one">
+            <a href="../Hydro_html/homepage.html"><img src="../Images/Recycle.png" width="60px" height="60px" alt="image1"></a>
+            <header > Renewable Energy </header>  
+        </div>
+        
+       <div id="two">
+            <nav id="nav_menu">
+                <ul>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="../Hydro_html/faqs.html">FAQs</a></li>
+                    <li><a href="../Hydro_html/quiz.html">Quiz</a></li>
+                    <li><a href="../Hydro_html/gallery.html">Gallery</a></li>
+                    <li><a href="">Energy</a>
+                        <ul>
+                            <li><a href="../Hydro_html/hydro.html">Hydro</a></li>
+                            <li><a href="../Solar_Energy/solar.html">Solar</a></li>
+                            <li><a href="../Geo_html/geo.html">Geothermal</a></li>
+                            <li><a href="../Ocean_Energy/ocean.html">Ocean</a></li>
+                            <li><a href="../WindEnergy/wind.html">Wind</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../Hydro_html/homepage.html">Home</a></li>
+               </ul>        
+            </nav>
+        </div>   
+        <h2 style="text-align: center;font-family:'Righteous';background-color: skyblue;">CONTACT US</h2>
+        <div id="main-container">
+            <div id="sub-container1">
+                <div id="four">
+                <section id="col1">
+                    <div id="quicklinks">      
+                    <nav id="links">
+                    <ul>
+                         <li><a href="../Hydro_html/hydro.html" >Hydro</a></li>
+                        <li><a href="../Solar_Energy/solar.html">Solar</a></li>
+                        <li><a href="../Geo_html/geo.html">Geothermal</a></li>
+                        <li><a href="../Ocean_Energy/ocean.html">Ocean</a></li>
+                        <li><a href="../WindEnergy/wind.html">Wind</a></li>
+                        <li><a href="../Hydro_html/gallery.html">Gallery</a></li>
+                        <li><a href="../Hydro_html/quiz.html" >Quiz</a></li>
+                        <li><a href="../Hydro_html/faqs.html">FAQs</a></li>
+                        <li><a href="#" class="current">Contact Us</a></li>
+                    </ul>
+                    </nav>
+                </div>
+                    </section>
+                </div>
+        </div> 
+            
+            <div id="sub-container2">
+            <form id="reg" name="reg" method="get" action="contactform.html">
+            <fieldset>
+                <legend>Contact Information</legend>
+                
+            <label for="info" style="color: red;">* Required field </label><br><br>
+            <label for="name" accesskey="N">Name: </label><br>
+            <input type="text" name="fname" id="fname" maxlength="8" placeholder="Enter First name">
+            <span style="color:red;" id="errfname">*</span><br><br>
+            
+            <label for="email" accesskey="A">Email: </label><br>
+            <input type="text" name="email" id="email"  placeholder="name@email.[xx-xxxx]"/>
+            <span style="color:red;"  id="erremail">*</span><br><br>
+            
+            <label for="Phone" accesskey="P">Phone: </label><br>
+            <input type="text" name="phone" placeholder="Enter phone number"  autocomplete="off"  maxlength="10" id="phone" />
+            <span style="color:red;"  id="errphone">*</span><br><br>
+                
+            <label for="subject" accesskey="Z">Subject: </label><br>
+            <input type="text" name="zip" placeholder="Enter subject"  min="5"  /><br><br>
+            
+            <label for="msg" accesskey="Z">Message: </label><br>
+            <textarea id="text" name="text" rows="10" cols="50"  ></textarea>
+            <span style="color:red;"  id="errmsg">*</span><br><br>
+                
+            <input type="button" id="submit" value="submit" name="submit"/>
+            &emsp;&emsp;<input type="reset" id="reset" value="reset" name="reset" />
+            </fieldset>
+                </form>
+            </div>
+            </div> 
+         <footer> 
+            <p>Copyright &copy; 2018 DevAlliance &emsp;
+            <a href="mailto:suppoert@devalliance.com"></a></p>
+        </footer>
+    </body>
+</html>

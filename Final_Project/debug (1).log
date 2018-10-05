@@ -1,0 +1,6 @@
+[1015/120952.949:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1015/190127.309:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1015/190416.797:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1015/203021.627:ERROR:process_info.cc(632)] range at 0x4d2a32b800000000, size 0x192 fully unreadable
+[1015/203028.537:ERROR:process_info.cc(632)] range at 0x4d2a32d800000000, size 0x192 fully unreadable
+[1015/203028.537:ERROR:process_info.cc(632)] range at 0x0, size 0x192 fully unreadable

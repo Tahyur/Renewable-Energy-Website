@@ -1,0 +1,29 @@
+label
+{
+    float: left;
+    text-align: left;
+    margin-right: 1em;
+    font-family: 'Righteous';
+}
+
+input:focus,input:hover,textarea:hover{
+    border: 2px solid navy;
+}
+
+input#submit,input#reset{
+   float: left;
+    width:100px;
+    font-family: 'Righteous';
+}
+input#reset{
+    margin-left: 50px;
+}
+
+fieldset{
+    width: 20em;
+}
+legend{
+    width:752.25;
+    margin-top: 10px;
+    font-family: 'Righteous';
+}

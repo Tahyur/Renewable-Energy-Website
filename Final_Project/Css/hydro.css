@@ -1,0 +1,148 @@
+body#body{
+    background-color: whitesmoke;
+    background-image: url();
+}
+
+body.container {
+    position: relative;
+    color: white;
+    margin: 0 auto; /* Center it */
+}
+
+ .content {
+    position: absolute;
+    bottom: 10px;
+    right: 90px;
+    background: rgba(0, 0, 0, 0.5);
+    font-family: '','Rye', cursive, sans-serif;
+    color: dodgerblue;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#links ul, #col3 ul{
+    list-style-type: none;
+    margin-left: 40px;
+    text-align: left;
+    font-family: 'Righteous';
+}
+
+#links ul li, #col3 ul li{
+    width:150px;
+    border: 2px solid whitesmoke;
+    background-color: whitesmoke;
+    margin-bottom: .5em;
+}
+
+#links ul li a, #col3 ul li a{
+    display: block;
+    padding: .5em 0 .5em 1.5em;
+    text-decoration: none;
+    color: blue;
+}
+
+#links ul li:active{}
+#links ul li:hover, #col3 ul li:hover{background-color: cadetblue; border-color: cadetblue; text-decoration: underline;}
+#links ul li:focus, #col3 ul li:focus{background-color: cadetblue; border-color: cadetblue; text-decoration: underline;}
+#links ul li:visited{}
+div#three{
+    width: inherit;
+    height: 840px;
+    background-color: skyblue;
+    border-bottom: 10px solid whitesmoke;
+}
+
+#col3 ul li#other a{
+    display: block;
+    padding: .5em 0 .5em 1.5em;
+    text-decoration: none;
+    color: blue;
+}
+
+div#three #header{
+    bottom: 8px;
+}
+
+.intro::first-letter{
+    font-size: 2em;
+     margin-top: 0;
+}
+
+div#four section#col1{
+    width:25%;
+    height: 500px;
+    text-align: center;
+    background-color: whitesmoke;
+    border-right: 2px solid whitesmoke;
+    float: left;
+    
+}
+
+div#four section#col2{
+    width:50%;
+    height: 500px;
+    text-align: center;
+    border-right: 2px solid white;
+    float: left;
+}
+
+ div#four section#col3{
+    width:25%;
+    height: 500px;
+    text-align: center;
+    float: right;
+    background-color: whitesmoke;
+}
+
+#facts{
+    width: 90%;
+    margin-left: 5px;
+    margin-left: 5px; 
+}
+
+.facts{
+    font-family: 'Righteous','Ranga', cursive; 
+}
+.facts ul{
+    text-align: justify;
+    font-size: 15px;
+    margin-right: 5px;
+}
+.hfact{
+    color: black;
+    font-size: 30px;
+    font-family: 'Righteous','Ranga', cursive;
+}
+
+#col2 .hfact{
+    color: beige;
+}
+#statistics figure table{
+   
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+table th, table td{
+    padding: .5em;
+}
+table tr:nth-child(odd){
+    background-color: skyblue;
+}
+
+figcaption{
+     color: black;
+    font-family: 'Righteous','Ranga', cursive;
+    font-size: 15px;
+    margin-left: 10px;
+}
+figure{
+    margin-left: 0;
+    margin-right: 0;
+}
+footer{
+    margin-top: 0;
+}
